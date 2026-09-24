@@ -440,10 +440,3 @@ The repository includes the complete project artifacts:
 
 ---
 
-## Author
-
-**Khushi Malik**
-
-B.Tech Computer Science & Engineering (Data Science)
-
----
