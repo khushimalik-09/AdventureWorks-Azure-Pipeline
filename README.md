@@ -4,7 +4,7 @@ This project demonstrates an end-to-end data engineering workflow built around t
 
 The implementation follows a **Medallion Architecture**, with data moving through the Bronze, Silver, and Gold layers.
 
-![Project Architecture](screenshots/architecture.jpg)
+![Azure Data Factory Pipeline](https://github.com/khushimalik-09/AdventureWorks-Azure-ETL-Pipeline/blob/main/screenshots/architecture.jpg)
 
 ---
 
